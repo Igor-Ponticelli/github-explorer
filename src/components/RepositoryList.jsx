@@ -16,7 +16,7 @@ export function RepositoryList(){
 
   return (
     <section className="repository-list">
-      <h1>Lista de repositórios</h1>
+      <h1>Lista de repositórios de Igor Patrick Ponticelli</h1>
 
       <ul>
         {repositories.map(repository => {
